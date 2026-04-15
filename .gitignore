@@ -1,0 +1,41 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Object files
+*.a
+*.lib
+*.so
+*.so.*
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# IDE and Editor specific
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+Debug/
+Release/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# MinGW specific
+*.gdb_history
